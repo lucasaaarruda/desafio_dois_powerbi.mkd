@@ -1,4 +1,4 @@
-# Desadio Dois Power BI
+# Desafio Dois Power BI
 Segundo desafio de Dados Power BI DIO
 ## Descrição
 Cabeçalhos verificados, e tipos de dados atualizados se necessário.
